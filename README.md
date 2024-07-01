@@ -1,2 +1,7 @@
-# Pasos-Para-hacer-testing-Node
-explicacion para configurar Jest con TypeScript, en Node
+# 02 Bases de Node
+
+
+Correr en Dev
+```
+npm run dev
+```
